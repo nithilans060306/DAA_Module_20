@@ -39,8 +39,7 @@ Program to implement Rat in a Maze.
 Developed by: Nithilan S
 Register Number: 212223240108
 */
-
-```python
+```
 N = 4
 
 def printSolution( sol ):
