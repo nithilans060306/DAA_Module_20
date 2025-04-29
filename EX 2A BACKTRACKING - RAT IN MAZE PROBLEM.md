@@ -33,7 +33,7 @@
    
 
 ## Program:
-```
+```python
 /*
 Program to implement Rat in a Maze.
 Developed by: Nithilan S
